@@ -1,4 +1,4 @@
-# Library_Management_system
+# Library_Website_Automation
 Automated testing suite for a library management website 
 This project is an automated testing suite built using Selenium, TestNG, and Cucumber to validate the core functionalities of a Library Management website.
 
